@@ -1,0 +1,89 @@
+.title {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+.copyRight {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 50px;
+    font-size: 15px;
+    color: gainsboro;
+}
+
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    text-align: center;
+}
+
+a:link, a:visited {
+    color: black;
+    padding: 10px 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    display: inline-block;
+}
+
+body {
+    background-color: royalblue;
+}
+
+fieldset {
+    margin-top: 50px;
+    padding: 30px;
+    border: 0px;
+    width: 300px;
+    text-align: center;
+}
+
+input {
+    margin: 5px;
+}
+
+.button {
+    background-color: orange;
+    border: none;
+    color: black;
+    padding: 10px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    width: 260px;
+}
+
+.loginInput1 {
+    box-sizing: border-box;
+    border: 0px;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: white;
+    background-image: url('user.png');
+    background-position: 5px;
+    background-size: 20px;
+    background-repeat: no-repeat;
+    padding: 12px 20px 12px 40px;
+}
+
+.loginInput2 {
+    box-sizing: border-box;
+    border: 0px;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: white;
+    background-image: url('lock.png');
+    background-position: 5px;
+    background-size: 20px;
+    background-repeat: no-repeat;
+    padding: 12px 20px 12px 40px;
+}
+
+#collection {
+    margin-top: 50px;
+    margin-left: 200px;
+    float: left;
+    width: 500px;
+    height: 300px;
+}

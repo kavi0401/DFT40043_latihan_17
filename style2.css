@@ -1,0 +1,64 @@
+body {
+    background-color: royalblue;
+}
+
+.title {
+    margin-left: 190px;
+}
+
+.title2 {
+    color: gray;
+    margin-left: 80px;
+}
+
+.signIn {
+    margin-left: 135px;
+}
+
+.textInput {
+    width: 400px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.ageInput {
+    width: 50px;
+}
+
+.phoneInput {
+    width: 150px;
+}
+
+.submit {
+    float: left;
+    margin-left: 90px;
+    background-color: orange;
+    border: none;
+    color: black;
+    padding: 10px 0px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    cursor: pointer;
+    width: 100px;
+}
+
+.reset {
+    margin-left: 120px;
+    background-color: royalblue;
+    border: none;
+    color: black;
+    padding: 10px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    cursor: pointer;
+    width: 100px;
+}
+
+fieldset {
+    background-color: whitesmoke;
+    margin-left: 350px;
+    padding: 30px;
+    width: 500px;
+    box-shadow: 0 0 20px black;
+}
